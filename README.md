@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @fathima-farhath
+<h1 align="center"> Hi, I’m Fathima Farhath PA</h1>
+<hr>
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 💞️ I’m looking to collaborate on exciting projects
+- 📫 you can reach me at:<a href="https://www.linkedin.com/in/fathima-farhath-p-a-49011625b">in</a>
 
 <!---
 fathima-farhath/fathima-farhath is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
