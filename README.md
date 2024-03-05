@@ -1,11 +1,11 @@
 <h1 align="center"> Hi, I’m Fathima Farhath PA</h1>
 <hr>
-<>
+<h6 align="center">
 - 👀 I’m interested in Web Development<br>
 - 🌱 I’m currently learning python<br>
 - 💞️ I’m looking to collaborate on exciting projects<br>
 - 📫 you can reach me at:<a href="https://www.linkedin.com/in/fathima-farhath-p-a-49011625b">in</a>
-</center>
+</h6>
 
 <!---
 fathima-farhath/fathima-farhath is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
